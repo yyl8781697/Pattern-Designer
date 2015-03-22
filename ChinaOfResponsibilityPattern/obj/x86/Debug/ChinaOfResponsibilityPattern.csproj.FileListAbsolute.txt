@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\bin\Debug\ChinaOfResponsibilityPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\bin\Debug\ChinaOfResponsibilityPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\obj\x86\Debug\ChinaOfResponsibilityPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\obj\x86\Debug\ChinaOfResponsibilityPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\bin\Debug\ChinaOfResponsibilityPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\bin\Debug\ChinaOfResponsibilityPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\obj\x86\Debug\ChinaOfResponsibilityPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ChinaOfResponsibilityPattern\obj\x86\Debug\ChinaOfResponsibilityPattern.pdb

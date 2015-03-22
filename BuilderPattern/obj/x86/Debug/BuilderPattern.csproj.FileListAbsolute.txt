@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\bin\Debug\BuilderPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\bin\Debug\BuilderPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\obj\x86\Debug\BuilderPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BuilderPattern\obj\x86\Debug\BuilderPattern.pdb

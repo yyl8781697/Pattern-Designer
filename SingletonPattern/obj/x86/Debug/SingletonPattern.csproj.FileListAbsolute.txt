@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SingletonPattern\obj\x86\Debug\SingletonPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SingletonPattern\obj\x86\Debug\SingletonPattern.pdb

@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\bin\Debug\DecoratePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\bin\Debug\DecoratePattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\obj\x86\Debug\DecoratePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\obj\x86\Debug\DecoratePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\obj\x86\Debug\DecoratePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\obj\x86\Debug\DecoratePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\bin\Debug\DecoratePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\DecoratePattern\bin\Debug\DecoratePattern.pdb

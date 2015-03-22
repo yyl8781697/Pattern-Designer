@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\bin\Debug\BridgePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\obj\x86\Debug\BridgePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\obj\x86\Debug\BridgePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\obj\x86\Debug\BridgePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\obj\x86\Debug\BridgePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\BridgePattern\bin\Debug\BridgePattern.pdb

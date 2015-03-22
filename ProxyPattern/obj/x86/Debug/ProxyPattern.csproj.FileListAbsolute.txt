@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\obj\x86\Debug\ProxyPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ProxyPattern\obj\x86\Debug\ProxyPattern.pdb

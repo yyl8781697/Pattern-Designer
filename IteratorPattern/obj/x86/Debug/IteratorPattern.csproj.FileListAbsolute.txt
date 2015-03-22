@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\obj\x86\Debug\IteratorPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\IteratorPattern\obj\x86\Debug\IteratorPattern.pdb

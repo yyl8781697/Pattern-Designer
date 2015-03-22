@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SimpleFactory\obj\x86\Debug\SimpleFactory.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\SimpleFactory\obj\x86\Debug\SimpleFactory.pdb

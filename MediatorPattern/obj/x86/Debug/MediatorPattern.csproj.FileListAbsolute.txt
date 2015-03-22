@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\bin\Debug\MediatorPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\bin\Debug\MediatorPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MediatorPattern\bin\Debug\MediatorPattern.pdb

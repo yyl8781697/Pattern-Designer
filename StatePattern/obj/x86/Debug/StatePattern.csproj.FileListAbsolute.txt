@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\bin\Debug\StatePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\bin\Debug\StatePattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\obj\x86\Debug\StatePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\obj\x86\Debug\StatePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\obj\x86\Debug\StatePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StatePattern\obj\x86\Debug\StatePattern.pdb

@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\obj\x86\Debug\AdapterPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\AdapterPattern\obj\x86\Debug\AdapterPattern.pdb

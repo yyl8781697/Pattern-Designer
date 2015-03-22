@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\bin\Debug\InterpreretPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\bin\Debug\InterpreretPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\obj\x86\Debug\InterpreretPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\obj\x86\Debug\InterpreretPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\obj\x86\Debug\InterpreretPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\obj\x86\Debug\InterpreretPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\bin\Debug\InterpreretPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\InterpreterPattern\bin\Debug\InterpreretPattern.pdb

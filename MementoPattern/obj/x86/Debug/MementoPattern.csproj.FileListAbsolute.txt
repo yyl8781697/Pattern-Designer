@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\bin\Debug\MementoPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\bin\Debug\MementoPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\obj\x86\Debug\MementoPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\obj\x86\Debug\MementoPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\obj\x86\Debug\MementoPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\obj\x86\Debug\MementoPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\MementoPattern\bin\Debug\MementoPattern.pdb

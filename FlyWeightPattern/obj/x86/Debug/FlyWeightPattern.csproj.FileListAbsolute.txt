@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\bin\Debug\FlyWeightPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\obj\x86\Debug\FlyWeightPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\obj\x86\Debug\FlyWeightPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\obj\x86\Debug\FlyWeightPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\obj\x86\Debug\FlyWeightPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FlyWeightPattern\bin\Debug\FlyWeightPattern.pdb

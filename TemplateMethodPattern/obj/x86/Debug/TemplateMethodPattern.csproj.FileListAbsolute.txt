@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\TemplateMethodPattern\obj\x86\Debug\TemplateMethodPattern.pdb

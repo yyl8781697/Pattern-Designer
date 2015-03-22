@@ -1,0 +1,10 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\bin\Debug\VisitorPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\bin\Debug\VisitorPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\obj\x86\Debug\VisitorPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\obj\x86\Debug\VisitorPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\obj\x86\Debug\VisitorPattern.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\obj\x86\Debug\VisitorPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\obj\x86\Debug\VisitorPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\VisitorPattern\obj\x86\Debug\VisitorPattern.csprojResolveAssemblyReference.cache

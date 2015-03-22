@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\obj\x86\Debug\ObserverPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\obj\x86\Debug\ObserverPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\obj\x86\Debug\ObserverPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\obj\x86\Debug\ObserverPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\ObserverPattern\bin\Debug\ObserverPattern.pdb

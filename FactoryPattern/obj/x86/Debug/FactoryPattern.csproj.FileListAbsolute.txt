@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FactoryPattern\obj\x86\Debug\FactoryPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\FactoryPattern\obj\x86\Debug\FactoryPattern.pdb

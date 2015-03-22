@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\bin\Debug\CommandPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\obj\x86\Debug\CommandPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\obj\x86\Debug\CommandPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\obj\x86\Debug\CommandPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\obj\x86\Debug\CommandPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\CommandPattern\bin\Debug\CommandPattern.pdb

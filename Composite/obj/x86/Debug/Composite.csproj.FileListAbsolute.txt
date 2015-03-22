@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\bin\Debug\Composite.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\bin\Debug\Composite.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\obj\x86\Debug\Composite.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\obj\x86\Debug\Composite.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\obj\x86\Debug\Composite.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\obj\x86\Debug\Composite.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\bin\Debug\Composite.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\Composite\bin\Debug\Composite.pdb

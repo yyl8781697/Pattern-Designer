@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\obj\x86\Debug\PrototypePattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\PrototypePattern\obj\x86\Debug\PrototypePattern.pdb

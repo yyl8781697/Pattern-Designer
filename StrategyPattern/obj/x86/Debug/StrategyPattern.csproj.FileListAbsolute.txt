@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+E:\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\obj\x86\Debug\StrategyPattern.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PatternDesignerSolution\StrategyPattern\obj\x86\Debug\StrategyPattern.pdb
